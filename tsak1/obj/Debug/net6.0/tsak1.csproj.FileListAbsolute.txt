@@ -1,0 +1,15 @@
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\bin\Debug\net6.0\tsak1.exe
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\bin\Debug\net6.0\tsak1.deps.json
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\bin\Debug\net6.0\tsak1.runtimeconfig.json
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\bin\Debug\net6.0\tsak1.dll
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\bin\Debug\net6.0\tsak1.pdb
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\obj\Debug\net6.0\tsak1.csproj.AssemblyReference.cache
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\obj\Debug\net6.0\tsak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\obj\Debug\net6.0\tsak1.AssemblyInfoInputs.cache
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\obj\Debug\net6.0\tsak1.AssemblyInfo.cs
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\obj\Debug\net6.0\tsak1.csproj.CoreCompileInputs.cache
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\obj\Debug\net6.0\tsak1.dll
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\obj\Debug\net6.0\refint\tsak1.dll
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\obj\Debug\net6.0\tsak1.pdb
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\obj\Debug\net6.0\tsak1.genruntimeconfig.cache
+C:\Users\bart6\OneDrive\Рабочий стол\C#\homework5\tsak1\obj\Debug\net6.0\ref\tsak1.dll
